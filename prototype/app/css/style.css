@@ -1,0 +1,253 @@
+.logo {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.logo img {
+    width: 190px;
+}
+
+.banner {
+    background-image: url(../images/banner.jpg);
+    background-size: cover;
+}
+
+.banner-text {
+    text-align: center;
+    float: right;
+    margin-right: 20%;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+
+.banner h3 {
+    color: rgb(19, 73, 178);
+    font-size: 35px;
+}
+
+.banner h2 {
+    color: rgb(51, 51, 51);
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background: #d9121f;
+    border-radius: 19px;
+    border: none;
+    color: #fff;
+    font-size: 11px;
+    padding: 11px 38px;
+    font-weight: bold;
+}
+
+.category {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-size: cover;
+}
+
+.category-1 {
+    background-image: url(../images/category-1.jpg);
+}
+
+.category-2 {
+    background-image: url(../images/category-2.jpg);
+}
+
+.category-3 {
+    background-image: url(../images/category-3.jpg);
+}
+
+.category .category-text {
+    text-align: center;
+    padding-left: 40px;
+    width: 200px;
+}
+
+.category h3 {
+    font-size: 23px;
+    color: #000;
+    padding-bottom: 10px;
+}
+
+.btn-secondary {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    border-radius: 15px;
+    padding: 6px 17px;
+    font-size: 11px;
+}
+
+.pro-detail h4 a {
+    font-size: 20px;
+    font-weight: 100px;
+    color: #d9121f;
+}
+
+.pro-detail h4 {
+    padding-top: 9px;
+}
+
+.pro-highlight {
+    position: absolute;
+    top: 0px;
+    left: 17px;
+    background-color: red;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.pro-action {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    width: 40px;
+    display: none;
+}
+
+.product:hover .pro-action {
+    display: block;
+}
+
+.latest-products h2 {
+    color: green;
+    padding-top: 8px;
+    padding-bottom: 13px;
+}
+
+.pro-detail p {
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.pro-detail .btn-cart {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.pro-detail .btn-cart:hover {
+    font-size: 13px;
+    background-color: red;
+    color: black;
+    border-radius: 50px;
+}
+
+.quick-category-1 {
+    background-image: url(../images/always-trendy.jpg);
+    height: 300px;
+}
+
+.quick-category-2 {
+    background-image: url(../images/modern-blue.jpg);
+    height: 300px;
+}
+
+.quick-category-3 {
+    background-image: url(../images/simple-style.jpg);
+    height: 250px;
+}
+
+.quick-category-4 {
+    background-image: url(../images/modern-sweaters.jpg);
+    height: 250px;
+}
+
+.quick-category-5 {
+    background-image: url(../images/back-pack.jpg);
+    height: 250px;
+}
+
+.category-text-1 h3 {
+    color: black;
+    text-align: center;
+    padding-right: 365px;
+    padding-top: 50px;
+}
+
+.category-text-2 h3 {
+    color: black;
+    text-align: center;
+    padding-left: 341px;
+    padding-top: 59px;
+}
+
+.category-text-3 h3 {
+    text-align: center;
+    padding-left: 225px;
+    padding-top: 35px;
+}
+
+.category-text-4 h3 {
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-right: 0px;
+}
+
+.category-text-5 h3 {
+    text-align: center;
+    padding-top: 40px;
+    padding-right: 152px;
+}
+
+.btn-secondary-1 {
+    background-color: white;
+    color: black;
+    text-align: center;
+    border-radius: 15px;
+    padding: 6px 17px;
+    font-size: 11px;
+}
+
+.category-text-1 p {
+    padding-left: 90px;
+}
+
+.category-text-2 p {
+    text-align: right;
+    padding-right: 100px;
+}
+
+.category-text-3 p {
+    padding-left: 285px;
+}
+
+.category-text-4 p {
+    padding-left: 172px;
+}
+
+.category-text-5 p {
+    padding-left: 93px;
+}
+
+.blog h3 {
+    color: black;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.card .pro-card {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    text-align: center;
+    width: 100%;
+}
+
+.card .pro-card span {
+    font-weight: bold;
+    color: white;
+    background-color: red;
+    display: inline-block;
+    font-size: 11px;
+    padding: 6px 6px;
+}
+
+.form {
+    background-image: url(../images/forms.jpg);
+}
