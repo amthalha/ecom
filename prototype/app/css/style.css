@@ -1,10 +1,76 @@
-.logo {
-    padding-top: 10px;
-    padding-bottom: 10px;
+.logo1 {
+    padding-top: 12px;
+    padding-bottom: 12px;
 }
 
-.logo img {
+.logo1 img {
     width: 190px;
+}
+
+.form-inline {
+    padding-top: 13px;
+}
+
+.form-inline .form-group .sr-only {
+    border-radius: 10px;
+}
+
+.quick-links {
+    padding-top: 13px;
+}
+
+.quick-links .nav-item {
+    padding-left: 20px;
+}
+
+.quick-links .nav-item3 {
+    position: absolute;
+    top: 14px;
+    left: 162px;
+}
+
+.quick-links p {
+    position: absolute;
+    top: 6px;
+    left: -11px;
+    background-color: crimson;
+    color: #fff;
+}
+
+.search-header .form-control {
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+    border-radius: 20px;
+}
+
+.quick-links .cart-num {
+    margin-top: 8px;
+    margin-left: -25px;
+    margin-bottom: 1rem
+}
+
+.quick-links .cart-num p {
+    background-color: crimson;
+    color: white;
+    border-radius: 70%;
+    font-weight: bold;
+}
+
+.nav .btn {
+    border-color: grey;
+    border-width: 0.5px;
+    border-radius: 30px;
+}
+
+.nav .btn:hover {
+    border-color: crimson;
+    background-color: crimson;
+    color: white;
+}
+
+.nav .nav-item .btn-cart-num a {
+    position: absolute;
 }
 
 .banner {
@@ -323,4 +389,79 @@
 
 .custom-select-form-3 .btn-primary {
     border-radius: 10px;
+}
+
+.footer {
+    background-color: rgb(12, 14, 8);
+}
+
+.logo img {
+    padding-top: 30px;
+}
+
+.footer h6 {
+    color: #fff;
+    padding-left: 12px;
+    padding-top: 38px;
+}
+
+.footer p {
+    color: gray;
+    padding-left: 12px;
+    padding-top: 38px;
+}
+
+.footer .social-logo a {
+    color: gray;
+    font-size: 20px;
+}
+
+.footer .social-logo a:hover {
+    color: honeydew;
+}
+
+.foot-text a {
+    color: gray;
+    padding-left: 12px;
+    font-size: 13px;
+}
+
+.foot-text a:hover {
+    color: honeydew;
+}
+
+.footer h4 {
+    color: #fff;
+    padding-left: 12px;
+    padding-top: 38px;
+    padding-bottom: 40px;
+}
+
+.join-footer button {
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.join-footer button:hover {
+    background-color: crimson;
+    color: white;
+}
+
+.join-footer .form-control {
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+    border-radius: 20px;
+    background: #383838;
+    color: black;
+}
+
+.copyright {
+    color: gray;
+}
+
+.copyright p {
+    margin-bottom: 0
 }
