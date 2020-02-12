@@ -1,0 +1,55 @@
+.form-part .form-part-title h3 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.form-part-title h3 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.first-name {
+    margin-bottom: 20px;
+}
+
+.msg-box {
+    margin-top: 10px;
+}
+
+.contact-form .btn-primary {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.add-part h5 {
+    padding-left: 135px;
+    position: relative;
+}
+
+.add-part span {
+    padding-left: 135px;
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.add-part h5 a {
+    color: black;
+    padding-top: 20px;
+    /* padding-left: 150px; */
+}
+
+.home-icon {
+    position: absolute;
+    right: 250px;
+}
+
+.phone-icon {
+    position: absolute;
+    right: 250px;
+}
+
+.email-icon {
+    position: absolute;
+    right: 250px;
+}
